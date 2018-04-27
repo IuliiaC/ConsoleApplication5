@@ -23,7 +23,7 @@ namespace ConsoleApplication5
                bool b = m.Contains(findap);
                 if (b)
                 {
-                    Console.WriteLine("подходит " + fruitArray[i]);
+                    Console.WriteLine("подходит " + fruitArray[i] + "lalala");
                 }
             }
             Console.ReadLine();
