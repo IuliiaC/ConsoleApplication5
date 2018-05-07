@@ -1,0 +1,6 @@
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task5\bin\Debug\Task5.exe.config
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task5\bin\Debug\Task5.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task5\bin\Debug\Task5.pdb
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task5\obj\Debug\Task5.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task5\obj\Debug\Task5.pdb

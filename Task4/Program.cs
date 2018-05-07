@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication5
+namespace Task4
 {
     class Program
     {
         static void Main()
         {
-            //Задание 4, вторая версия. Но я не уверенна что это то, что они хотят.
             var bannanaColor = new string[] { "a. Red", "b. Green", "c. Yellow", "d. Blue", "e. Purple" };
             bool answerIsCorrect = false;
 
@@ -21,14 +20,13 @@ namespace ConsoleApplication5
                 Console.WriteLine(elem);
                 i++;
             };
-
-            while (answerIsCorrect != true)
+            do
             {
                 Console.WriteLine("Write a letter with correct answer:");
                 string answer1 = Console.ReadLine();
                 if (answer1 != "c")
                 {
-                    Console.WriteLine("No it's not. Retry (y/n)??");
+                    Console.WriteLine("No it's not. Retry (y/n)?");
                     string answer2 = Console.ReadLine();
                     if (answer2.ToLower() == "n")
                     {
@@ -41,7 +39,8 @@ namespace ConsoleApplication5
                     Console.WriteLine("Yes! It's Yellow!");
                     answerIsCorrect = true;
                 }
-            };
+
+            } while (answerIsCorrect != true);
             Console.ReadLine();
         }
     }

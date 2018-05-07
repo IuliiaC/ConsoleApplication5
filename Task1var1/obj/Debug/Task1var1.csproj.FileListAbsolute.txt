@@ -1,0 +1,5 @@
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task1var1\bin\Debug\Task1var1.exe.config
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task1var1\bin\Debug\Task1var1.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task1var1\bin\Debug\Task1var1.pdb
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task1var1\obj\Debug\Task1var1.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task1var1\obj\Debug\Task1var1.pdb

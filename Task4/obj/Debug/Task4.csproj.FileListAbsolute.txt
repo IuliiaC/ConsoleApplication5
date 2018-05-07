@@ -1,0 +1,5 @@
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task4\bin\Debug\Task4.exe.config
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task4\bin\Debug\Task4.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task4\bin\Debug\Task4.pdb
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task4\obj\Debug\Task4.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task4\obj\Debug\Task4.pdb

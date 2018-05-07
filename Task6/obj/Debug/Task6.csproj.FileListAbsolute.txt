@@ -1,0 +1,6 @@
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task6\bin\Debug\Task6.exe.config
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task6\bin\Debug\Task6.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task6\bin\Debug\Task6.pdb
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task6\obj\Debug\Task6.exe
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task6\obj\Debug\Task6.pdb
+C:\Users\Iuliia_Chmykhun\Documents\ConsoleApplication5\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
